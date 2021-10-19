@@ -1,0 +1,138 @@
+{
+    "Products": [
+        {
+            "Id":"P1",
+            "Material": "Portatil",
+            "Brand": "Compaq",
+            "Model": "610",
+            "Weight": "3 KG",
+            "Price": "300",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id":"P2",
+            "Material": "PC",
+            "Brand": "Compaq",
+            "Model": "1610",
+            "Weight": "7 KG",
+            "Price": "800",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id":"P3",
+            "Material": "Grapadora",
+            "Brand": "American Crafts",
+            "Model": "1600",
+            "Weight": "1 KG",
+            "Price": "20",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id":"P4",
+            "Material": "Silla de escritorio",
+            "Brand": "ASPEN",
+            "Model": "R45",
+            "Weight": "5 KG",
+            "Price": "96",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        }
+    ],
+    "News": [
+        {
+            "Title": "Los billetes",
+            "Description": "El servicio contara",
+            "Unread": true,
+            "Author": "El Pais",
+            "Priority": "Medium",
+            "ShowCloseButton": false
+        },
+        {
+            "Title": "Adif pone el",
+            "Description": "La compañis publica",
+            "Unread": false,
+            "Author": "20 minutos",
+            "Priority": "High",
+            "ShowCloseButton": true
+        },
+        {
+            "Title": "Los coches sin distintivo",
+            "Description": "el ayuntamiento de Mdrid",
+            "Unread": true,
+            "Author": "EL MUNDO",
+            "Priority": "None",
+            "ShowCloseButton": true
+        }
+    ]
+}
